@@ -1,5 +1,10 @@
 # eSpeak NG Text-to-Speech
 
+### Fix and Usage 
+- `phontab: No such file or directory.` when eSpeak NG was installed by linuxbrew user prefix.
+- Add linuxbrew formulae that points to this repo.
+  - Download https://github.com/tchayintr/espeak-ng/blob/master/espeak-ng.rb and install via `brew install <download_dir>/espeak-ng.rb`
+----------
 - [Features](#features)
 - [Supported languages](docs/languages.md)
 - [Documentation](#documentation)
